@@ -117,6 +117,14 @@
         {
             "command": 
             {
+                "action": "swapPane",
+                "direction": "down"
+            },
+            "keys": "alt+shift+k"
+        },
+        {
+            "command": 
+            {
                 "action": "moveFocus",
                 "direction": "up"
             },
@@ -240,6 +248,14 @@
         {
             "command": 
             {
+                "action": "swapPane",
+                "direction": "left"
+            },
+            "keys": "alt+shift+j"
+        },
+        {
+            "command": 
+            {
                 "action": "switchToTab",
                 "index": 3
             },
@@ -343,6 +359,22 @@
                 "index": 8
             },
             "keys": "alt+shift+9"
+        },
+        {
+            "command": 
+            {
+                "action": "swapPane",
+                "direction": "up"
+            },
+            "keys": "alt+shift+i"
+        },
+        {
+            "command": 
+            {
+                "action": "swapPane",
+                "direction": "right"
+            },
+            "keys": "alt+shift+l"
         }
     ],
     "copyFormatting": "none",
@@ -651,12 +683,12 @@
             "cyan": "#86CBFE",
             "foreground": "#E5E5E5",
             "green": "#00FBAC",
+            "name": "cyberpunk unfocus",
             "purple": "#DF95FF",
             "red": "#FF7092",
             "selectionBackground": "#C1DEFF",
             "white": "#FFFFFF",
-            "yellow": "#FFFA6A",
-            "name": "cyberpunk unfocus"
-        },
+            "yellow": "#FFFA6A"
+        }
     ]
 }
