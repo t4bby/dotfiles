@@ -16,6 +16,7 @@ This is based on my i3wm shortcuts
 - Switch Panel `alt+[arrow keys]`
 - Resize Panel `alt+shift+[arrow keys]`
 - Move Panel `alt+shift+[i, j, k, l]`
+- Close Panel `alt+w`
 - Focus Mode `alt+f`
 - New Tab `alt+t`
 - Next Tab `ctrl+tab`
