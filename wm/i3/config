@@ -298,3 +298,8 @@ mode "$mode_gaps_outer" {
         bindsym Escape mode "default"
 }
 
+bindsym $mod+Shift+d mode "gaming"
+mode "gaming" {
+  bindsym $mod+Shift+d mode "default"
+}
+

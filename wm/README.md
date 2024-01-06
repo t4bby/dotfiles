@@ -34,6 +34,7 @@ pretty much the default i3 keybinds. I'm using `ALT` key
 | runner menu | mod+q |
 | generate and reload config | mod+shift+r |
 | gaps mode | mod+shift+g  |
+| gaming mode (disable all keybinds) | mod+shift+d  |
 
 # preview
 ![home](../preview/1.png)
